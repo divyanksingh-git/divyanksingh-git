@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+- 🌱 I’m currently learning **Flutter , ML .**
+
+- 💬 Ask me about **Flutter, Android , Python , Linux , Cyber Security .**
+
+- 📫 How to reach me **div.singh.7@protonmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanksingh52/) 
