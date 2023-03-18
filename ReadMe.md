@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **divyanksingh20@gmail.com**
 
-- 📝 Resume link ["https://divyanksingh-git.github.io/resume/"](https://divyanksingh-git.github.io/resume/)
+- 📝 Resume link [https://divyanksingh-git.github.io/resume/](https://divyanksingh-git.github.io/resume/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanksingh52/) 
