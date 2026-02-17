@@ -3,13 +3,11 @@
 <!-- ============================================================ -->
 
 <div align="center">
- <a href="https://git.io/typing-svg">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=200&lines=Divyank+Singh;Dx4956+%2F%2F+Code+Arbiter" alt="Typing SVG" width="100%" style="border-radius: 16px; margin-bottom: 24px;"/>
-
-</a>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="24">
+  <a href="https://github.com/Dx4956">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=400&section=header&text=Divyank%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Dx4956%20%2F%2F%20Code%20Arbiter&descSize=20&descAlignY=60&descColor=b3b3b3&animation=fadeIn" alt="Code Arbiter Header" width="100%"/>
+  </a>
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="24">
 </div>
 
 <div align="center">
