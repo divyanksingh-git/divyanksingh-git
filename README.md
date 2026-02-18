@@ -426,22 +426,6 @@ Connection closed. _
 
 <br/><br/>
 
-<!-- ┌────────────────────────────────────────────────────────────────┐
-     │  SELF-HOST FOR 100% UPTIME — fork github-readme-stats         │
-     │  on Vercel, then paste your 3 cards below                     │
-     │                                                               │
-     │  Stats:  bg_color=000000&title_color=ffffff&icon_color=aaaaaa │
-     │          &text_color=888888&hide_border=true&show_icons=true  │
-     │          &include_all_commits=true&count_private=true         │
-     │                                                               │
-     │  Langs:  bg_color=000000&title_color=ffffff&text_color=888888 │
-     │          &hide_border=true&layout=compact&langs_count=8       │
-     │                                                               │
-     │  Trophies: theme=onestar&no-frame=true&no-bg=true&column=7    │
-     └────────────────────────────────────────────────────────────────┘ -->
-
-<!-- PASTE SELF-HOSTED STAT CARDS HERE -->
-
 </div>
 
 <br>
@@ -456,7 +440,6 @@ Connection closed. _
 ║   CURRENTLY  ░░  MS @ IIT Patna  ·  AppSec  ·  AI Security       ║
 ║   OPEN TO    ░░  Dev Roles  ·  Security / Pentest Roles          ║
 ║   COLLAB ON  ░░  Security Research  ·  Open Source  ·  Builds    ║
-║   MOTTO      ░░  Secure by design. Ship with confidence.         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
