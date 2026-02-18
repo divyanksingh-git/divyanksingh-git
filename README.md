@@ -159,7 +159,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/IIT_PATNA-000000?style=for-the-badge&logo=academia&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/IIT_PATNA-000000?style=flat&logo=academia&logoColor=ffffff"/>
 
 ```
 ╔══════════════════════════════════╗
@@ -171,7 +171,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/GURUKULA_KANGRI-000000?style=for-the-badge&logo=academia&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GURUKULA_KANGRI-000000?style=flat&logo=academia&logoColor=ffffff"/>
 
 ```
 ╔══════════════════════════════════╗
@@ -198,18 +198,18 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <summary>&nbsp; <img src="https://img.shields.io/badge/Security_%26_Exploitation-000000?style=flat&logo=hackthebox&logoColor=ffffff"/> </summary>
 <br>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=ffffff)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
-![Application Security](https://img.shields.io/badge/Application_Security-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=ffffff)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=ffffff)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=ffffff)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=flat&logo=kalilinux&logoColor=ffffff)
+![Application Security](https://img.shields.io/badge/Application_Security-000000?style=flat&logo=owasp&logoColor=ffffff)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat&logo=burpsuite&logoColor=ffffff)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=ffffff)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=ffffff)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=gnuprivacyguard&logoColor=ffffff)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=ffffff)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=ffffff)
 
 <br>
 </details>
@@ -218,19 +218,19 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <summary>&nbsp; <img src="https://img.shields.io/badge/Mobile_%26_Frontend-000000?style=flat&logo=flutter&logoColor=ffffff"/> </summary>
 <br>
 
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ffffff)
-![Provider](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=flutter&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=ffffff)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=w3c&logoColor=ffffff)
-![Django Templates](https://img.shields.io/badge/Django_Templates-000000?style=for-the-badge&logo=django&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=ffffff)
+![Provider](https://img.shields.io/badge/Provider-000000?style=flat&logo=flutter&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=ffffff)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=ffffff)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=flat&logo=reactquery&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=w3c&logoColor=ffffff)
+![Django Templates](https://img.shields.io/badge/Django_Templates-000000?style=flat&logo=django&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=ffffff)
 
 <br>
 </details>
@@ -239,17 +239,17 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <summary>&nbsp; <img src="https://img.shields.io/badge/Cloud_%26_DevOps-000000?style=flat&logo=icloud&logoColor=ffffff"/> </summary>
 <br>
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=anycubic&logoColor=ffffff)
-![EC2](https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=anycubic&logoColor=ffffff)
-![Amplify](https://img.shields.io/badge/Amplify-000000?style=for-the-badge&logo=anycubic&logoColor=ffffff)
-![Route 53](https://img.shields.io/badge/Route_53-000000?style=for-the-badge&logo=anycubic&logoColor=ffffff)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=ffffff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=anycubic&logoColor=ffffff)
+![EC2](https://img.shields.io/badge/EC2-000000?style=flat&logo=anycubic&logoColor=ffffff)
+![Amplify](https://img.shields.io/badge/Amplify-000000?style=flat&logo=anycubic&logoColor=ffffff)
+![Route 53](https://img.shields.io/badge/Route_53-000000?style=flat&logo=anycubic&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat&logo=googlecloud&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=ffffff)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat&logo=nginx&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
+![PM2](https://img.shields.io/badge/PM2-000000?style=flat&logo=pm2&logoColor=ffffff)
 
 <br>
 </details>
@@ -258,13 +258,13 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <summary>&nbsp; <img src="https://img.shields.io/badge/Backend_%26_Data-000000?style=flat&logo=python&logoColor=ffffff"/> </summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=ffffff)
-![Django REST](https://img.shields.io/badge/Django_REST-000000?style=for-the-badge&logo=django&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=ffffff)
+![Django REST](https://img.shields.io/badge/Django_REST-000000?style=flat&logo=django&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=ffffff)
 
 <br>
 </details>
@@ -273,11 +273,11 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <summary>&nbsp; <img src="https://img.shields.io/badge/Databases-000000?style=flat&logo=postgresql&logoColor=ffffff"/> </summary>
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=ffffff)
 
 <br>
 </details>
@@ -286,9 +286,9 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <summary>&nbsp; <img src="https://img.shields.io/badge/AI_%26_Prompt_Engineering-000000?style=flat&logo=tensorflow&logoColor=ffffff"/> </summary>
 <br>
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=probot&logoColor=ffffff)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
-![AI Driven Dev](https://img.shields.io/badge/AI--Driven_Dev-000000?style=for-the-badge&logo=githubcopilot&logoColor=ffffff)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat&logo=probot&logoColor=ffffff)
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=tensorflow&logoColor=ffffff)
+![AI Driven Dev](https://img.shields.io/badge/AI--Driven_Dev-000000?style=flat&logo=githubcopilot&logoColor=ffffff)
 
 <br>
 </details>
@@ -306,7 +306,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/ANAAM_APP-000000?style=for-the-badge&logo=shieldsdotio&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ANAAM_APP-000000?style=flat&logo=shieldsdotio&logoColor=ffffff"/>
 </div>
 
 <br>
@@ -332,7 +332,7 @@ A privacy-first mobile app enabling citizens to anonymously report drug traffick
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/AUTH_REIMAGINED-000000?style=for-the-badge&logo=openid&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/AUTH_REIMAGINED-000000?style=flat&logo=openid&logoColor=ffffff"/>
 </div>
 
 <br>
