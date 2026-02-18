@@ -82,7 +82,7 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 
 <br>
 
-<details open>
+<details>
 <summary>
 &nbsp; <img src="https://img.shields.io/badge/01-000000?style=flat&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Software Developer &nbsp;—&nbsp; Incash &nbsp;|&nbsp; Full-Time · Remote (Nigeria) &nbsp;|&nbsp; Jul 2023 – Present</b>
 </summary>
@@ -192,7 +192,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 
 <br>
 
-<details open>
+<details>
 <summary>&nbsp; <img src="https://img.shields.io/badge/Security_%26_Exploitation-000000?style=flat&logo=hackthebox&logoColor=ffffff"/> </summary>
 <br>
 
