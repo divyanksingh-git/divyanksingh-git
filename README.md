@@ -11,9 +11,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=googlechrome&logoColor=ffffff)](https://www.itsdivyanksingh.com/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/itsdivyanksingh/)&nbsp;
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat&logo=gmail&logoColor=ffffff)](mailto:divyanksingh.work@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/divyanksingh-git)
 
 </div>
 
