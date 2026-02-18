@@ -3,11 +3,9 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <a href="https://github.com/Dx4956">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=400&section=header&text=Divyank%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Dx4956%20%2F%2F%20Code%20Arbiter&descSize=20&descAlignY=60&descColor=b3b3b3&animation=fadeIn" alt="Code Arbiter Header" width="100%"/>
+  <a href="https://github.com/divyanksingh-git">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=450&section=header&text=Dx4956&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Code%20Arbiter&descSize=20&descAlignY=55&descColor=b3b3b3&animation=fadeIn" alt="Dx4956 Header" width="100%"/>
   </a>
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="24">
 </div>
 
 <div align="center">
@@ -420,7 +418,11 @@ Connection closed. _
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=divyanksingh-git&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc" width="65%" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=divyanksingh-git&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanksingh-git&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
+</div>
 
 <br/><br/>
 
