@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://www.itsdivyanksingh.com/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/itsdivyanksingh/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:divyanksingh.work@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/divyanksingh-git)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=googlechrome&logoColor=ffffff)](https://www.itsdivyanksingh.com/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/itsdivyanksingh/)&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat&logo=gmail&logoColor=ffffff)](mailto:divyanksingh.work@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/divyanksingh-git)
 
 </div>
 
@@ -86,7 +86,7 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 
 <details open>
 <summary>
-&nbsp; <img src="https://img.shields.io/badge/01-000000?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Software Developer &nbsp;—&nbsp; Incash &nbsp;|&nbsp; Full-Time · Remote (Nigeria) &nbsp;|&nbsp; Jul 2023 – Present</b>
+&nbsp; <img src="https://img.shields.io/badge/01-000000?style=flat&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Software Developer &nbsp;—&nbsp; Incash &nbsp;|&nbsp; Full-Time · Remote (Nigeria) &nbsp;|&nbsp; Jul 2023 – Present</b>
 </summary>
 <br>
 
@@ -94,19 +94,19 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 STACK  ░░  Flutter · React · Firebase · AWS · Analytics
 ```
 
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=android&logoColor=ffffff" height="16"/> &nbsp; Shipped **Android, iOS & Web** updates — improving core UX flows end-to-end\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=googleanalytics&logoColor=ffffff" height="16"/> &nbsp; Integrated **push notifications & analytics** for real-time user behaviour tracking\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=ffffff" height="16"/> &nbsp; Built **internal admin portal** eliminating engineering bottlenecks for operations\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=flutter&logoColor=ffffff" height="16"/> &nbsp; Led full **frontend development of the employer portal** from wireframe to release\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=googleads&logoColor=ffffff" height="16"/> &nbsp; Developed **marketing tools** directly supporting the sales pipeline\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=ffffff" height="16"/> &nbsp; Embedded closely with founding team — sharing business growth insights
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=android&logoColor=ffffff" height="16"/> &nbsp; Shipped **Android, iOS & Web** updates — improving core UX flows end-to-end\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=googleanalytics&logoColor=ffffff" height="16"/> &nbsp; Integrated **push notifications & analytics** for real-time user behaviour tracking\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=react&logoColor=ffffff" height="16"/> &nbsp; Built **internal admin portal** eliminating engineering bottlenecks for operations\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=flutter&logoColor=ffffff" height="16"/> &nbsp; Led full **frontend development of the employer portal** from wireframe to release\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=googleads&logoColor=ffffff" height="16"/> &nbsp; Developed **marketing tools** directly supporting the sales pipeline\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=notion&logoColor=ffffff" height="16"/> &nbsp; Embedded closely with founding team — sharing business growth insights
 
 <br>
 </details>
 
 <details>
 <summary>
-&nbsp; <img src="https://img.shields.io/badge/02-000000?style=flat-square&logo=shield&logoColor=ffffff"/> &nbsp; <b>Technology Consultant &nbsp;—&nbsp; The Social Purpose Trust &nbsp;|&nbsp; Part-Time · Remote &nbsp;|&nbsp; Feb–Dec 2025</b>
+&nbsp; <img src="https://img.shields.io/badge/02-000000?style=flat&logo=shield&logoColor=ffffff"/> &nbsp; <b>Technology Consultant &nbsp;—&nbsp; The Social Purpose Trust &nbsp;|&nbsp; Part-Time · Remote &nbsp;|&nbsp; Feb–Dec 2025</b>
 </summary>
 <br>
 
@@ -114,33 +114,33 @@ STACK  ░░  Flutter · React · Firebase · AWS · Analytics
 STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 ```
 
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=trello&logoColor=ffffff" height="16"/> &nbsp; Defined **product roadmap** across 6 live products\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=meetup&logoColor=ffffff" height="16"/> &nbsp; Managed a team of **5 engineers**, improving delivery and code quality\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=raspberrypi&logoColor=ffffff" height="16"/> &nbsp; Owned **AWS deployment, security testing & incident response**\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=hackthebox&logoColor=ffffff" height="16"/> &nbsp; **Identified and patched a critical vulnerability** in a Next.js/AWS production stack\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=checkmarx&logoColor=ffffff" height="16"/> &nbsp; Established baseline **development and security standards** for the org
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=trello&logoColor=ffffff" height="16"/> &nbsp; Defined **product roadmap** across 6 live products\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=meetup&logoColor=ffffff" height="16"/> &nbsp; Managed a team of **5 engineers**, improving delivery and code quality\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=raspberrypi&logoColor=ffffff" height="16"/> &nbsp; Owned **AWS deployment, security testing & incident response**\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=hackthebox&logoColor=ffffff" height="16"/> &nbsp; **Identified and patched a critical vulnerability** in a Next.js/AWS production stack\
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=checkmarx&logoColor=ffffff" height="16"/> &nbsp; Established baseline **development and security standards** for the org
 
 <br>
 </details>
 
 <details>
 <summary>
-&nbsp; <img src="https://img.shields.io/badge/03-000000?style=flat-square&logo=leaf&logoColor=ffffff"/> &nbsp; <b>Member &nbsp;—&nbsp; Alarth Green Private Limited &nbsp;|&nbsp; Feb 2025 – Present</b>
+&nbsp; <img src="https://img.shields.io/badge/03-000000?style=flat&logo=leaf&logoColor=ffffff"/> &nbsp; <b>Member &nbsp;—&nbsp; Alarth Green Private Limited &nbsp;|&nbsp; Feb 2025 – Present</b>
 </summary>
 <br>
 
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=envato&logoColor=ffffff" height="16"/> &nbsp; Contributing to sustainable technology initiatives
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=envato&logoColor=ffffff" height="16"/> &nbsp; Contributing to sustainable technology initiatives
 
 <br>
 </details>
 
 <details>
 <summary>
-&nbsp; <img src="https://img.shields.io/badge/04-000000?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Student Developer &nbsp;—&nbsp; Google Developer Student Clubs &nbsp;|&nbsp; Nov 2019 – May 2023</b>
+&nbsp; <img src="https://img.shields.io/badge/04-000000?style=flat&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Student Developer &nbsp;—&nbsp; Google Developer Student Clubs &nbsp;|&nbsp; Nov 2019 – May 2023</b>
 </summary>
 <br>
 
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=codementor&logoColor=ffffff" height="16"/> &nbsp; Grew through GDSC's peer-to-peer learning ecosystem at Gurukula Kangri
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=codementor&logoColor=ffffff" height="16"/> &nbsp; Grew through GDSC's peer-to-peer learning ecosystem at Gurukula Kangri
 
 <br>
 </details>
@@ -195,7 +195,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <br>
 
 <details open>
-<summary>&nbsp; <img src="https://img.shields.io/badge/Security_%26_Exploitation-000000?style=flat-square&logo=hackthebox&logoColor=ffffff"/> </summary>
+<summary>&nbsp; <img src="https://img.shields.io/badge/Security_%26_Exploitation-000000?style=flat&logo=hackthebox&logoColor=ffffff"/> </summary>
 <br>
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=ffffff)
@@ -215,7 +215,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 </details>
 
 <details>
-<summary>&nbsp; <img src="https://img.shields.io/badge/Mobile_%26_Frontend-000000?style=flat-square&logo=flutter&logoColor=ffffff"/> </summary>
+<summary>&nbsp; <img src="https://img.shields.io/badge/Mobile_%26_Frontend-000000?style=flat&logo=flutter&logoColor=ffffff"/> </summary>
 <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ffffff)
@@ -236,7 +236,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 </details>
 
 <details>
-<summary>&nbsp; <img src="https://img.shields.io/badge/Cloud_%26_DevOps-000000?style=flat-square&logo=icloud&logoColor=ffffff"/> </summary>
+<summary>&nbsp; <img src="https://img.shields.io/badge/Cloud_%26_DevOps-000000?style=flat&logo=icloud&logoColor=ffffff"/> </summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=anycubic&logoColor=ffffff)
@@ -255,7 +255,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 </details>
 
 <details>
-<summary>&nbsp; <img src="https://img.shields.io/badge/Backend_%26_Data-000000?style=flat-square&logo=python&logoColor=ffffff"/> </summary>
+<summary>&nbsp; <img src="https://img.shields.io/badge/Backend_%26_Data-000000?style=flat&logo=python&logoColor=ffffff"/> </summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -270,7 +270,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 </details>
 
 <details>
-<summary>&nbsp; <img src="https://img.shields.io/badge/Databases-000000?style=flat-square&logo=postgresql&logoColor=ffffff"/> </summary>
+<summary>&nbsp; <img src="https://img.shields.io/badge/Databases-000000?style=flat&logo=postgresql&logoColor=ffffff"/> </summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
@@ -283,7 +283,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 </details>
 
 <details>
-<summary>&nbsp; <img src="https://img.shields.io/badge/AI_%26_Prompt_Engineering-000000?style=flat-square&logo=tensorflow&logoColor=ffffff"/> </summary>
+<summary>&nbsp; <img src="https://img.shields.io/badge/AI_%26_Prompt_Engineering-000000?style=flat&logo=tensorflow&logoColor=ffffff"/> </summary>
 <br>
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=probot&logoColor=ffffff)
@@ -325,7 +325,7 @@ A privacy-first mobile app enabling citizens to anonymously report drug traffick
 
 <div align="center">
 
-[![Patent](https://img.shields.io/badge/Idea_Patent-202211029346-000000?style=flat-square&logo=shieldsdotio&logoColor=ffffff&labelColor=111111)](/)
+[![Patent](https://img.shields.io/badge/Idea_Patent-202211029346-000000?style=flat&logo=shieldsdotio&logoColor=ffffff&labelColor=111111)](/)
 </div>
 
 </td>
@@ -351,7 +351,7 @@ Verifies identity via Aadhaar without ever exposing the Aadhaar number — dual-
 
 <div align="center">
 
-[![Theme](https://img.shields.io/badge/Auth_Re--Imagined-UIDAI_2021-000000?style=flat-square&logo=openid&logoColor=ffffff&labelColor=111111)](/)
+[![Theme](https://img.shields.io/badge/Auth_Re--Imagined-UIDAI_2021-000000?style=flat&logo=openid&logoColor=ffffff&labelColor=111111)](/)
 
 </div>
 
@@ -371,11 +371,11 @@ Verifies identity via Aadhaar without ever exposing the Aadhaar number — dual-
 
 | &nbsp; | Certification | Issuer |
 |--------|--------------|--------|
-| <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tryhackme&logoColor=ffffff" height="18"/> | **CompTIA PenTest+** | TryHackMe |
-| <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tryhackme&logoColor=ffffff" height="18"/> | **Offensive Pentesting** | TryHackMe |
-| <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=coursera&logoColor=ffffff" height="18"/> | **Burp Suite** | Coursera |
-| <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=ffffff" height="18"/> | **Microsoft Technology Associate — Python** | Microsoft |
-| <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=udemy&logoColor=ffffff" height="18"/> | **Algorithms & Data Structures in Python** | Udemy |
+| <img src="https://img.shields.io/badge/-000000?style=flat&logo=tryhackme&logoColor=ffffff" height="18"/> | **CompTIA PenTest+** | TryHackMe |
+| <img src="https://img.shields.io/badge/-000000?style=flat&logo=tryhackme&logoColor=ffffff" height="18"/> | **Offensive Pentesting** | TryHackMe |
+| <img src="https://img.shields.io/badge/-000000?style=flat&logo=coursera&logoColor=ffffff" height="18"/> | **Burp Suite** | Coursera |
+| <img src="https://img.shields.io/badge/-000000?style=flat&logo=python&logoColor=ffffff" height="18"/> | **Microsoft Technology Associate — Python** | Microsoft |
+| <img src="https://img.shields.io/badge/-000000?style=flat&logo=udemy&logoColor=ffffff" height="18"/> | **Algorithms & Data Structures in Python** | Udemy |
 
 </div>
 
