@@ -240,35 +240,6 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 
 ---
 
-<div align="center"><h2>◈ &nbsp; ACHIEVEMENTS &nbsp; ◈</h2></div>
-
-<br>
-
-<div align="center">
-
-```
-root@dx4956:~$ sudo cat /var/log/achievements.log
-[sudo] password for dx4956: ████████
-
-  [+]  MS Admission .......... IIT Patna — Cybersecurity & AI (2026)
-  [+]  Idea Patent ........... Anaam App (Patent No. 202211029346)
-  [+]  SIH 2022 .............. Internal Qualifier — Backend Lead
-  [+]  Aadhar Hackathon ....... Internal Qualifier — Backend Developer
-  [+]  Security Fix .......... Critical CVE-level patch — Next.js/AWS prod
-  [+]  Startup Experience .... Founding team embed @ Incash, Nigeria
-  [+]  NGO Consulting ......... Technology consulting for social impact org
-
-root@dx4956:~$ echo "Access granted." && exit
-Access granted.
-Connection closed. _
-```
-
-</div>
-
-<br>
-
----
-
 <div align="center"><h2>◈ &nbsp; GITHUB STATS &nbsp; ◈</h2></div>
 
 <br>
@@ -294,7 +265,6 @@ Connection closed. _
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   CURRENTLY  ░░  MS @ IIT Patna  ·  AppSec  ·  AI Security       ║
 ║   OPEN TO    ░░  Dev Roles  ·  Security / Pentest Roles          ║
 ║   COLLAB ON  ░░  Security Research  ·  Open Source  ·  Builds    ║
 ║                                                                  ║
