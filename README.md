@@ -203,7 +203,6 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=ffffff)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=ffffff)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=gnuprivacyguard&logoColor=ffffff)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=ffffff)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=ffffff)
@@ -217,11 +216,10 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=ffffff)
-![Provider](https://img.shields.io/badge/Provider-000000?style=flat&logo=flutter&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=ffffff)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=ffffff)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=flat&logo=reactquery&logoColor=ffffff)
+![SWR](https://img.shields.io/badge/TanStack_Query-000000?style=flat&logo=reactquery&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff)
@@ -258,11 +256,8 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=ffffff)
-![Django REST](https://img.shields.io/badge/Django_REST-000000?style=flat&logo=django&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=ffffff)
+
 
 <br>
 </details>
@@ -274,8 +269,7 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=ffffff)
+
 
 <br>
 </details>
