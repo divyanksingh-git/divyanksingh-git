@@ -256,19 +256,3 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 
 </div>
 
-<br>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   OPEN TO    ░░  Dev Roles  ·  Security / Pentest Roles          ║
-║   COLLAB ON  ░░  Security Research  ·  Open Source  ·  Builds    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
