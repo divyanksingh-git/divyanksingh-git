@@ -78,75 +78,6 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 
 ---
 
-<div align="center"><h2>◈ &nbsp; EXPERIENCE &nbsp; ◈</h2></div>
-
-<br>
-
-<details>
-<summary>
-&nbsp; <img src="https://img.shields.io/badge/01-000000?style=flat&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Software Developer &nbsp;—&nbsp; Incash &nbsp;|&nbsp; Full-Time · Remote (Nigeria) &nbsp;|&nbsp; Jul 2023 – Present</b>
-</summary>
-<br>
-
-```
-STACK  ░░  Flutter · React · Firebase · AWS · Analytics
-```
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=android&logoColor=ffffff" height="16"/> &nbsp; Shipped **Android, iOS & Web** updates — improving core UX flows end-to-end\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=googleanalytics&logoColor=ffffff" height="16"/> &nbsp; Integrated **push notifications & analytics** for real-time user behaviour tracking\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=react&logoColor=ffffff" height="16"/> &nbsp; Built **internal admin portal** eliminating engineering bottlenecks for operations\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=flutter&logoColor=ffffff" height="16"/> &nbsp; Led full **frontend development of the employer portal** from wireframe to release\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=googleads&logoColor=ffffff" height="16"/> &nbsp; Developed **marketing tools** directly supporting the sales pipeline\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=notion&logoColor=ffffff" height="16"/> &nbsp; Embedded closely with founding team — sharing business growth insights
-
-<br>
-</details>
-
-<details>
-<summary>
-&nbsp; <img src="https://img.shields.io/badge/02-000000?style=flat&logo=shield&logoColor=ffffff"/> &nbsp; <b>Technology Consultant &nbsp;—&nbsp; The Social Purpose Trust &nbsp;|&nbsp; Part-Time · Remote &nbsp;|&nbsp; Feb–Dec 2025</b>
-</summary>
-<br>
-
-```
-STACK  ░░  AWS · Next.js · Security Testing · 6 Products
-```
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=trello&logoColor=ffffff" height="16"/> &nbsp; Defined **product roadmap** across 6 live products\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=meetup&logoColor=ffffff" height="16"/> &nbsp; Managed a team of **5 engineers**, improving delivery and code quality\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=raspberrypi&logoColor=ffffff" height="16"/> &nbsp; Owned **AWS deployment, security testing & incident response**\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=hackthebox&logoColor=ffffff" height="16"/> &nbsp; **Identified and patched a critical vulnerability** in a Next.js/AWS production stack\
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=checkmarx&logoColor=ffffff" height="16"/> &nbsp; Established baseline **development and security standards** for the org
-
-<br>
-</details>
-
-<details>
-<summary>
-&nbsp; <img src="https://img.shields.io/badge/03-000000?style=flat&logo=leaf&logoColor=ffffff"/> &nbsp; <b>Member &nbsp;—&nbsp; Alarth Green Private Limited &nbsp;|&nbsp; Feb 2025 – Present</b>
-</summary>
-<br>
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=envato&logoColor=ffffff" height="16"/> &nbsp; Contributing to sustainable technology initiatives
-
-<br>
-</details>
-
-<details>
-<summary>
-&nbsp; <img src="https://img.shields.io/badge/04-000000?style=flat&logo=visualstudiocode&logoColor=ffffff"/> &nbsp; <b>Student Developer &nbsp;—&nbsp; Google Developer Student Clubs &nbsp;|&nbsp; Nov 2019 – May 2023</b>
-</summary>
-<br>
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-000000?style=flat&logo=codementor&logoColor=ffffff" height="16"/> &nbsp; Grew through GDSC's peer-to-peer learning ecosystem at Gurukula Kangri
-
-<br>
-</details>
-
-<br>
-
----
-
 <div align="center"><h2>◈ &nbsp; EDUCATION &nbsp; ◈</h2></div>
 
 <br>
@@ -289,72 +220,6 @@ STACK  ░░  AWS · Next.js · Security Testing · 6 Products
 
 ---
 
-<div align="center"><h2>◈ &nbsp; PROJECTS &nbsp; ◈</h2></div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/ANAAM_APP-000000?style=flat&logo=shieldsdotio&logoColor=ffffff"/>
-</div>
-
-<br>
-
-```
-╔═══════════════════════════════════╗
-║  Anonymous Drug Trafficking       ║
-║  Reporter                         ║
-║                                   ║
-║  SIH 2022  ·  Backend Lead        ║
-║  Flutter  ·  Python  ·  REST      ║
-╚═══════════════════════════════════╝
-```
-
-A privacy-first mobile app enabling citizens to anonymously report drug trafficking — protecting whistleblowers while delivering actionable intelligence to law enforcement.
-
-<div align="center">
-
-[![Patent](https://img.shields.io/badge/Idea_Patent-202211029346-000000?style=flat&logo=shieldsdotio&logoColor=ffffff&labelColor=111111)](/)
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/AUTH_REIMAGINED-000000?style=flat&logo=openid&logoColor=ffffff"/>
-</div>
-
-<br>
-
-```
-╔═══════════════════════════════════╗
-║  Zero-Knowledge Identity          ║
-║  Verification via Aadhaar         ║
-║                                   ║
-║  UIDAI Hackathon 2021             ║
-║  Python  ·  UIDAI API             ║
-╚═══════════════════════════════════╝
-```
-
-Verifies identity via Aadhaar without ever exposing the Aadhaar number — dual-app architecture for Residents and Verifying Authorities. Zero-knowledge design for national identity infra.
-
-<div align="center">
-
-[![Theme](https://img.shields.io/badge/Auth_Re--Imagined-UIDAI_2021-000000?style=flat&logo=openid&logoColor=ffffff&labelColor=111111)](/)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 <div align="center"><h2>◈ &nbsp; CERTIFICATIONS &nbsp; ◈</h2></div>
 
 <br>
@@ -411,9 +276,9 @@ Connection closed. _
 <div align="center">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=divyanksingh-git&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=dx4956&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanksingh-git&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx4956&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
 </div>
 
 <br/><br/>
