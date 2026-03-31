@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=googlechrome&logoColor=ffffff)](https://www.itsdivyanksingh.com/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=googlechrome&logoColor=ffffff)](https://www.divyanksingh.com/)&nbsp;
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat&logo=gmail&logoColor=ffffff)](mailto:divyanksingh.work@gmail.com)&nbsp;
 
 </div>
