@@ -3,15 +3,15 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <a href="https://github.com/debuggingmess">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=450&section=header&text=DEBUGGING&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Code%20Arbiter&descSize=20&descAlignY=55&descColor=b3b3b3&animation=fadeIn" alt="debugging Header" width="100%"/>
+  <a href="https://github.com/dx4956s">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=450&section=header&text=dx4956s&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Code%20Arbiter&descSize=20&descAlignY=55&descColor=b3b3b3&animation=fadeIn" alt="debugging Header" width="100%"/>
   </a>
 </div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=googlechrome&logoColor=ffffff)](https://www.divyanksingh.com/)&nbsp;
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat&logo=gmail&logoColor=ffffff)](mailto:divyanksingh.work@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat&logo=gmail&logoColor=ffffff)](mailto:work@divyanksingh.com)&nbsp;
 
 </div>
 
@@ -247,9 +247,9 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 <div align="center">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=debuggingmess&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=dx4956s&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debuggingmess&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx4956s&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
 </div>
 
 <br/><br/>
