@@ -247,9 +247,9 @@ Currently pursuing **MS in Cybersecurity & AI at IIT Patna**, bridging offensive
 <div align="center">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dx4956s&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=debuggingmess&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222&currStreakNum=ffffff&sideNums=cccccc&border_radius=15" width="80%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx4956s&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debuggingmess&theme=dark&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=false&hide_border=true&radius=15" width="80%" />
 </div>
 
 <br/><br/>
