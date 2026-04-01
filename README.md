@@ -3,8 +3,8 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <a href="https://github.com/divyanksingh-git">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=450&section=header&text=Dx4956s&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Code%20Arbiter&descSize=20&descAlignY=55&descColor=b3b3b3&animation=fadeIn" alt="Dx4956s Header" width="100%"/>
+  <a href="https://github.com/debuggingmess">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=000000&height=450&section=header&text=DEBUGGING&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Code%20Arbiter&descSize=20&descAlignY=55&descColor=b3b3b3&animation=fadeIn" alt="debugging Header" width="100%"/>
   </a>
 </div>
 
